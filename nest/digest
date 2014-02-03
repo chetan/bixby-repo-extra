@@ -1,13 +1,13 @@
 {
-  "digest": "27101260b4cce69410e3bec2097d9def17f383a02562ced6b8c2c4f96bfe9506",
+  "digest": "3bd04e49f856b6a224807d8995be460e4ed45024992ec1d4963e1c6b3313c80b",
   "files": [
     {
       "file": "bin/monitoring/nest.rb",
-      "digest": "77fb9a060a7bb1457ea0d22589d6ab0180b3943587ccb0ba62c10e4a1ac09b77"
+      "digest": "bae0e34f1beeda8815042be3d5c93d2ffd173ff10923fc7ce55c0e7ac7fde45c"
     },
     {
       "file": "bin/monitoring/nest.rb.json",
-      "digest": "348679a53bfbeb0e06744f5b53b87ec6657bfcdcce990e3f550f8b2ea12155fe"
+      "digest": "25dcd551e9ad64afcc924c9701cd3510f67e657a0125b2b26ada2568ab00ddda"
     },
     {
       "file": "manifest.json",
