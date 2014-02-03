@@ -17,7 +17,7 @@
   "key" : "home.nest",
   "metrics" : {
     "current_temperature": { "unit" : "F", "desc" : "Current Temperature" },
-    "target_temperature":  { "unit" : "F", "desc" : "Current Temperature" },
+    "target_temperature":  { "unit" : "F", "desc" : "Target Temperature" },
     "current_humidity":    { "unit" : "%", "desc" : "Current Humidity", "range": "0..100" },
     "away":                { "unit" : "boolean", "desc" : "Away", "range": "0..1" },
     "status":              { "unit" : "boolean", "desc" : "Online Status", "range": "0..1" }
