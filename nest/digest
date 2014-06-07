@@ -1,5 +1,5 @@
 {
-  "digest": "3bd04e49f856b6a224807d8995be460e4ed45024992ec1d4963e1c6b3313c80b",
+  "digest": "b872fb2c91b5fb51bcb6fda498502d6a79e6ff81d1e2331e0b18df404f8c5cf1",
   "files": [
     {
       "file": "bin/monitoring/nest.rb",
@@ -11,7 +11,7 @@
     },
     {
       "file": "manifest.json",
-      "digest": "20f1e0ec00680c196c7140f184f161f7f323074a12407e6a60fb8fcf1215f45f"
+      "digest": "974321f5443010a2a92322f047f4efd391d072c9c7056e88c6917f9502277683"
     }
   ]
 }
