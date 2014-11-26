@@ -1,16 +1,23 @@
 
-{  "name" : "DHT Sensor",
+{
+  "name" : "DHT Sensor",
+  "user": "root",
+  "group": "root",
 
   "options" : {
     "pin" : {
-      "type" : "text",
-      "name" : "Pin",
-      "desc" : "Pin Number"
+      "type": "text",
+      "name": "Pin",
+      "desc": "Pin Number",
+      "required": false,
+      "default": 4
     },
     "sensor_type" : {
       "type" : "text",
       "name" : "Sensor Type",
-      "desc" : "Sensor Type: either 11 or 22"
+      "desc" : "Sensor Type: either 11 or 22",
+      "required": false,
+      "default": 22
     }
   },
 
