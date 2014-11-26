@@ -1,0 +1,24 @@
+
+{  "name" : "DHT Sensor",
+
+  "options" : {
+    "pin" : {
+      "type" : "text",
+      "name" : "Pin",
+      "desc" : "Pin Number"
+    },
+    "sensor_type" : {
+      "type" : "text",
+      "name" : "Sensor Type",
+      "desc" : "Sensor Type: either 11 or 22"
+    }
+  },
+
+  "key" : "home.dht",
+  "metrics" : {
+    "temperature": { "unit" : "F", "desc" : "Current Temperature" },
+    "humidity":    { "unit" : "%", "desc" : "Current Humidity", "range": "0..100" }
+  },
+
+  "tags" : []
+}
